@@ -1,0 +1,10 @@
+p{
+    background-color: white;
+    color: #8b6094;
+    font-weight: 600;
+    display: flex;
+    padding: 0 16px;
+    max-width: 960px;
+    flex-direction: column;
+    align-items: left;
+  }
